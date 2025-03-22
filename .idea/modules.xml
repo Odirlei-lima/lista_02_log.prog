@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LP.iml" filepath="$PROJECT_DIR$/.idea/LP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercicio-01/exercicio-01.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercicio-01/exercicio-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercicio-02/exercicio-02.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercicio-02/exercicio-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercicio-03/exercicio-03.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercicio-03/exercicio-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercicio-05/exercicio-05.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercicio-05/exercicio-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercicio-06/exercicio-06.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercicio-06/exercicio-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercicio-07/exercicio-07.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercicio-07/exercicio-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercico-04/exercico-04.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_02/exercico-04/exercico-04.iml" />
+    </modules>
+  </component>
+</project>
